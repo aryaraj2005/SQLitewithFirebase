@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQliteinRecyclerView</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="todo">TODO</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_contact">Enter your contact</string>
+</resources>
